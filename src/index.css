@@ -1,0 +1,13 @@
+body {
+  background: #3494e6; 
+  background: -webkit-linear-gradient(to right, #3494e6, #ec6ead);
+  background: linear-gradient(to right, #3494e6, #ec6ead);
+}
+form{
+  padding: 20px;
+  margin-top: 60px;
+}
+form button, form h5{
+  margin: 20px 0;
+}
+
